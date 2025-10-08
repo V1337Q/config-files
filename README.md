@@ -1,6 +1,9 @@
 # My bspwm, kitty, starship, and gtk theme config files.
 
-# Features:
+## Preview:
+![Alt text](./images/eww-setup.png)
+
+## Features:
 - Clean Kitty tab bar.
 ![Alt text](./images/tab-bar-showcase.gif)
 - Clean pacman themed starship prompt.
@@ -9,7 +12,7 @@
 - Picom animations.
 ![Alt text](./images/picom-preview.gif)
 
-# Installation:
+## Installation:
 
 **Just clone the repo, and then copy the config files into the correspond app config directory.**
 **INSTALL SCRIPT COMING SOON!**
